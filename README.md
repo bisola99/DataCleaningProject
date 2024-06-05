@@ -1,7 +1,7 @@
 # DataCleaningProject
  ## Data Source and Tools Used
 
-Welcome to the Data Cleaning Project! In this project, This project aimed to clean and prepare a dataset obtained from a source recommended by Alex the Analyst on YouTube. [Download the dataset here!](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)  Alternatively, the file will also be uploaded to this project's GitHub page.
+Welcome to the Data Cleaning Project! In this project, This project aimed to clean and prepare a dataset obtained from a source recommended by Alex the Analyst on YouTube. [Download the dataset here!](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)  Alternatively, the file will also be uploaded to this project's GitHub page. Additionally, a script containing all the SQL codes used for data cleaning is included in the repository.
 
 ![Screenshot 2024-05-30 152542](https://github.com/bisola99/DataCleaningProject/assets/123836101/d7e570ea-a38b-410e-8068-6afffce309c4)
 
